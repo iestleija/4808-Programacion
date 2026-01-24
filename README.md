@@ -1,2 +1,2 @@
 # 4808-Programacion
-Repo test creation for Programming class
+Repositorio semestral para la materia de *Programación para Analítica Descriptiva y Predictiva*
