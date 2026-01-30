@@ -1,0 +1,14 @@
+**Maestría en Intelingencia Artificial y Analítica de Datos**
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Práctica: 01 Manejo de Archivos
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1DTZncfH7QBE3nqI0sgwROs_9vfN73-el?usp=sharing
