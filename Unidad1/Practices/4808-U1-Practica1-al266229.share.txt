@@ -12,3 +12,7 @@
 Enlace al archivo de Google Colab:
 
 https://colab.research.google.com/drive/1DTZncfH7QBE3nqI0sgwROs_9vfN73-el?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad1/Unidad1/Practices/U1_Practica1_al266229.ipynb
