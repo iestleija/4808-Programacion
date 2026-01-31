@@ -1,0 +1,18 @@
+**Maestría en Intelingencia Artificial y Analítica de Datos**
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Práctica: 02 Expresiones Regulares
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1uffdd0dDYABruO9Rx1trcwbjOaM4kcMW?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad1/Unidad1/Practices/Practica2_266229.ipynb
