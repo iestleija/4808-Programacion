@@ -5,7 +5,7 @@
 - Semestre: Enero-Junio
 
 - Profesor: Dr. Vicente García Jiménez
-- Práctica: 03 Creación de un arreglo y operaciones básicas
+- Práctica: 04 Manipulación de matrices
 - Alumno: Ismael Estrada Leija
 - Matrícula: 266229
 
