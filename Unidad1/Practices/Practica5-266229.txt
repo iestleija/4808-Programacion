@@ -1,0 +1,18 @@
+**Maestría en Intelingencia Artificial y Analítica de Datos**
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Práctica: 05 Uso de máscaras booleanas
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1DTqBf9uBvKqLfEDro3gjCA1fHlm2tO3A?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad1/Unidad1/Practices/Practica5_266229.ipynb
