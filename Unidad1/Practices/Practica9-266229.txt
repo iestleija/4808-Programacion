@@ -1,0 +1,18 @@
+**Maestría en Intelingencia Artificial y Analítica de Datos**
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Práctica: 09 Distribución de Datos con plt.subplots()
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1tz8XJ9qU1ZEd-xzGLAsIknHPurmIccOw?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad1/unidad1/practices/Practica9_266229.ipynb
