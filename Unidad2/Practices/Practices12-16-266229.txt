@@ -1,4 +1,4 @@
-**Maestría en Intelingencia Artificial y Analítica de Datos**
+**Maestría en Inteligencia Artificial y Analítica de Datos**
 
 - Curso: Programación para Analítica Descriptiva y Predictiva
 
