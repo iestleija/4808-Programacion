@@ -1,0 +1,18 @@
+**Maestría en Intelingencia Artificial y Analítica de Datos**
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Actividad: Entrega 1 - Proyecto: Análisis Descriptivo de los Datos 1
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1Wy51pGAR2cnZhnDgpQbKN2Zb-m12gGLO?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad2/Unidad2/Proyectos/Proyecto01_266229.ipynb
