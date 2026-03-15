@@ -1,0 +1,20 @@
+**Maestría en Inteligencia Artificial y Analítica de Datos**
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Actividad: Práctica #19: Datos Duplicados
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1Ui6mfUKu8V7aI1TEfcWziLfR5vyjVP5B?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad2/Unidad2/Practices/Practica19_266229.ipynb
+
+
