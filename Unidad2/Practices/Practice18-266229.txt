@@ -5,7 +5,7 @@
 - Semestre: Enero-Junio
 
 - Profesor: Dr. Vicente García Jiménez
-- Actividad: Práctica #17: Limpieza y Transformación de Datos Categóricos
+- Actividad: Práctica #18: Datos Temporales
 - Alumno: Ismael Estrada Leija
 - Matrícula: 266229
 
