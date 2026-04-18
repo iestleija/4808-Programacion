@@ -1,0 +1,19 @@
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Ejercicio: Práctica de Generalización, Overfitting y Underfitting
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/172xEXWE3EkQLzFJPBVk9lhcyKQh-4s8p?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad3/Unidad3/Practices/PracticaSesion18_266229.ipynb
+
+
