@@ -1,0 +1,17 @@
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Semana 10 Práctica 01: Ejercicios de Normalización
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1Q6utTy6wqpPrfCl0r3g7-E_Q8OwdzYeR?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad3/Unidad3/Practices/266229_Sem10_P01.ipynb
