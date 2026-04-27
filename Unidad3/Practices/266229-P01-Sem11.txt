@@ -4,7 +4,7 @@
 - Semestre: Enero-Junio
 
 - Profesor: Dr. Vicente García Jiménez
-- Semana 10 Práctica 01: Ejercicios de Normalización
+- Semana 11 Práctica 01: Regresión Lineal Múltiple
 - Alumno: Ismael Estrada Leija
 - Matrícula: 266229
 
