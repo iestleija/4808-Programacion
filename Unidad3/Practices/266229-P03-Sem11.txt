@@ -1,0 +1,17 @@
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Semana 11 Práctica 03: Regresión Lasso y Ridge
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/1rZkygP4xj_kj3qKfogx0WAFg2KAzL4Lz?usp=sharing
+
+From gitHub:
+
+
