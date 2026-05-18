@@ -4,7 +4,7 @@
 - Semestre: Enero-Junio
 
 - Profesor: Dr. Vicente García Jiménez
-- Semana 11 Actividad: Árbol de Decisión para Regresión
+- Semana 14. Práctica: Ejercicios sobre Clases No Balanceadas, Data Leakage (Pipeline) y SVM
 - Alumno: Ismael Estrada Leija
 - Matrícula: 266229
 
