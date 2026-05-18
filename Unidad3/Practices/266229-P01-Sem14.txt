@@ -1,0 +1,18 @@
+
+- Curso: Programación para Analítica Descriptiva y Predictiva
+
+- Semestre: Enero-Junio
+
+- Profesor: Dr. Vicente García Jiménez
+- Semana 11 Actividad: Árbol de Decisión para Regresión
+- Alumno: Ismael Estrada Leija
+- Matrícula: 266229
+
+Enlace al archivo de Google Colab:
+
+https://colab.research.google.com/drive/11Lsj227jojbFQyukg2SEf92Y-b-P9H6Z?usp=sharing
+
+From gitHub:
+
+https://colab.research.google.com/github/iestleija/4808-Programacion/blob/Unidad3/4808_P01_Sem14.ipynb
+
